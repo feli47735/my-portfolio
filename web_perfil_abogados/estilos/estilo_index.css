@@ -1,0 +1,85 @@
+/*
+    estilos de la pagina principal del sitio ---> index
+*/
+body{
+    background-color: #001f3d;
+}
+#titulo1{
+    background-color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+}
+#subtitulo1{
+    color: 	#f0f0f0;
+    margin-top: -270px;
+    margin-left: 360px;
+    font-family: 'Lora', serif;
+    font-size: 40px;
+}
+#perfil_abogado{
+    border-radius: 500px;
+    margin-left: 30px;
+}
+#descripcion1{
+    color: #d4af37;
+    margin-left: 360px;
+    text-align: left;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+}
+#subtitulo2{
+    color: 	#f0f0f0;
+    font-family: 'Lora', serif;
+    font-size: 40px;
+    margin-left: 20px;
+}
+#asesoria_civil{
+    color: 	#f0f0f0;
+    font-family: 'Lora', serif;
+    margin-left:100px;
+    font-size: 25px;
+}
+#asesoria_civil_img{
+    border-radius: 500px;
+    margin-left: 80px;
+}
+#descripcion2{
+    color: #d4af37;
+    margin-left: 100px;
+    text-align: left;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+}
+#defensa_penal{
+    color: 	#f0f0f0;
+    font-family: 'Lora', serif;
+    margin-top: -353px;
+    margin-left:510px;
+    font-size: 25px;
+}
+#defensa_penal_img{
+    border-radius: 500px;
+    margin-top: -300;
+    margin-left: 440px;
+}
+#asesoria_en_derecho{
+    color: 	#f0f0f0;
+    font-family: 'Lora', serif;
+    margin-top: -353px;
+    margin-left:820px;
+    font-size: 25px;
+}
+#asesoria_en_derecho_img{
+    border-radius: 500px;
+    margin-top: -300;
+    margin-left: 820px;
+}
+#info1{
+    color: #f0f0f0;
+}
+#subtitulo_contactenos{
+    color: #d4af37;
+    font-family: 'Merriweather', serif;
+}
